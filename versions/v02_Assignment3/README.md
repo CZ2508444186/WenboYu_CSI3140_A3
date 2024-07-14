@@ -7,7 +7,7 @@ This repository documents the design system for my Yatzy game website. This game
 Students enhanced their Yatzy game to have a PHP server component for managing the scoring by using AJAX to communicate between the HTML/CSS/JS client with the PHP server.
 
 ## Usage
-1. Put file: v02_Assignment3 into IDE Phpstorm project, and run public/yatzy.html to play the game.
+1. Put file: v02_Assignment3 into IDE Phpstorm project, and run v02_Assignment3/public/yatzy.html to play the game.
 ## Screenshots
 ![common states](home.jpg)
 
