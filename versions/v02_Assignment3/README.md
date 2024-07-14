@@ -12,8 +12,13 @@ Students enhanced their Yatzy game to have a PHP server component for managing t
 ![common states](home.jpg)
 
 Press the "Roll the Dice" button to roll the dices.
+
 Use checkboxs to choose dice value keep or not.
+
 The row of Potential will show potential score once Rolls Left is 0.
+
 Press the row of Potential to choose which potential score want to be added in Score and Total Score.
+
 Once 15 turns is over press green button "Submit Score" to submit total score into Top10 leaderboard.
+
 Use "Reset Game" button to begin a new game.
