@@ -17,13 +17,12 @@ Open your command line tool:
 
 On Windows, open Command Prompt or PowerShell.
 On macOS or Linux, open Terminal.
-Navigate to your project directory:
 
-<span style="color: red;">cd path to folder(v02_Assignment3)</span>
+---Command: cd path to folder(v02_Assignment3)---
 
 Start the PHP built-in server:
 
-  php -S localhost:8000
+---Command: php -S localhost:8000---
   
 This command will start a web server on your local machine on port 8000. You can use any available port.
 
