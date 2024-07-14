@@ -3,4 +3,4 @@
 * Wenbo Yu 300161788
 
 ## Introduction
-Assignment3 file and README is in /version/v02_Assignment3
+Assignment3 files and README is in /version/v02_Assignment3
