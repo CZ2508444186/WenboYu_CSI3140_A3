@@ -7,7 +7,29 @@ This repository documents the design system for my Yatzy game website. This game
 Students enhanced their Yatzy game to have a PHP server component for managing the scoring by using AJAX to communicate between the HTML/CSS/JS client with the PHP server.
 
 ## Usage
-1. Put file: v02_Assignment3 into IDE Phpstorm project, and run v02_Assignment3/public/yatzy.html to play the game.
+1. Put folder: v02_Assignment3 into IDE Phpstorm project, and run v02_Assignment3/public/yatzy.html to play the game.
+   
+2. Using PHP's Built-in Server
+PHP comes with a simple built-in server that is very suitable for development and testing purposes. You can use this server on your local computer to run your game.
+
+Steps:
+Open your command line tool:
+
+On Windows, open Command Prompt or PowerShell.
+On macOS or Linux, open Terminal.
+Navigate to your project directory:
+
+  cd path to folder(v02_Assignment3)
+
+Start the PHP built-in server:
+
+  php -S localhost:8000
+  
+This command will start a web server on your local machine on port 8000. You can use any available port.
+
+Access in your browser:
+Open a browser and enter http://localhost:8000/public/yatzy.html to start the game.
+
 ## Screenshots
 ![common states](home.jpg)
 
