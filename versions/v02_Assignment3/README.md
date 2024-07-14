@@ -7,22 +7,6 @@ This repository documents the design system for my Yatzy game website. This game
 Students enhanced their Yatzy game to have a PHP server component for managing the scoring by using AJAX to communicate between the HTML/CSS/JS client with the PHP server.
 
 ## Usage
-/versions/v02_Assignment3
-├── app
-│   └── models
-│       ├── Dice.php
-│       ├── YatzyGame.php
-│       └── YatzyEngine.php
-├── public
-│   ├── yatzy.html
-│   ├── api.php
-│   ├── d0.jpg
-│   ├── d1.jpg
-│   ├── d2.jpg
-│   ├── d3.jpg
-│   ├── d4.jpg
-│   ├── d5.jpg
-│   └── d6.jpg
 
 
 
