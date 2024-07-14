@@ -19,7 +19,7 @@ On Windows, open Command Prompt or PowerShell.
 On macOS or Linux, open Terminal.
 Navigate to your project directory:
 
-  cd path to folder(v02_Assignment3)
+<span style="color: red;">cd path to folder(v02_Assignment3)</span>
 
 Start the PHP built-in server:
 
