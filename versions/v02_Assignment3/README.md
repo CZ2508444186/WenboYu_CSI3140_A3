@@ -10,6 +10,7 @@ Students enhanced their Yatzy game to have a PHP server component for managing t
 1. Put file: v02_Assignment3 into IDE Phpstorm project, and run yatzy.html to play the game.
 ## Screenshots
 ![common states](home.jpg)
+
 Press the "Roll the Dice" button to roll the dices.
 Use checkboxs to choose dice value keep or not.
 The row of Potential will show potential score once Rolls Left is 0.
