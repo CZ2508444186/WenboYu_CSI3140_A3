@@ -13,16 +13,22 @@ Students enhanced their Yatzy game to have a PHP server component for managing t
 PHP comes with a simple built-in server that is very suitable for development and testing purposes. You can use this server on your local computer to run your game.
 
 Steps:
+
 Open your command line tool:
 
 On Windows, open Command Prompt or PowerShell.
+
 On macOS or Linux, open Terminal.
+
 
 ---Command: cd path to folder(v02_Assignment3)---
 
+
 Start the PHP built-in server:
 
+
 ---Command: php -S localhost:8000---
+
   
 This command will start a web server on your local machine on port 8000. You can use any available port.
 
