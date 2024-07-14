@@ -11,6 +11,8 @@ Students enhanced their Yatzy game to have a PHP server component for managing t
 ## Screenshots
 ![common states](home.jpg)
 
+<How to Play?>------------------------------------------------------------------------------------------
+
 Press the "Roll the Dice" button to roll the dices.
 
 Use checkboxs to choose dice value keep or not.
